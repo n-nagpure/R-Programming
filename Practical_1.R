@@ -1,0 +1,6 @@
+vec1<-c(10,20,30)
+vec2<-c(4,6,7)
+cat("Summationofvec1andvec2=",vec1+vec2)
+cat("Subtractionofvec1andvec2=",vec1-vec2)
+cat("Multiplicationofvec1andvec2=",vec1*vec2)
+cat("Divisionofvec1andvec2=",vec1/vec2)
